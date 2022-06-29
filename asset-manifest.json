@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bondar-fm/static/css/main.073c9b0a.css",
+    "main.js": "/bondar-fm/static/js/main.a916f47e.js",
+    "static/js/787.56dd8b06.chunk.js": "/bondar-fm/static/js/787.56dd8b06.chunk.js",
+    "static/media/logo.svg": "/bondar-fm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bondar-fm/index.html",
+    "main.073c9b0a.css.map": "/bondar-fm/static/css/main.073c9b0a.css.map",
+    "main.a916f47e.js.map": "/bondar-fm/static/js/main.a916f47e.js.map",
+    "787.56dd8b06.chunk.js.map": "/bondar-fm/static/js/787.56dd8b06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a916f47e.js"
+  ]
+}
